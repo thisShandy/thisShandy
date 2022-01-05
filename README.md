@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thisShandy
+- 👀 I’m React & React-Native developer from Belarus
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking for a job
+- 📫 You can connect with me on email: shandyrix@gmail.com
