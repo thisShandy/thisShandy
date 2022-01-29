@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thisShandy
 - 👀 I’m React, Next.js & React-Native developer from Belarus
-- 📚 Now I learning Next.js and Express with MongoDB
+- 📚 Now I learning Next.js and TypeScript
 - 📫 You can connect with me on email: shandyrix@gmail.com
